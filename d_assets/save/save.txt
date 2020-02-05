@@ -1,0 +1,10 @@
+stage=0
+level=1
+health=25
+exp=0
+expToUp=100
+maxHp=100
+maxStam=100
+px=240.25
+sTime=52
+score=0
